@@ -1,0 +1,22 @@
+*{
+margin: 0;                 
+padding: 0;            
+box-sizing: border-box;
+}
+
+
+
+.navbar {
+    display: flex;               /* Convierte la navbar en contenedor flex */
+    justify-content: space-between; /* Logo a la izquierda, links a la derecha,
+                                       espacio máximo entre ellos */
+    align-items: center;         /* Centra verticalmente logo y links */
+    background: #0f3460;         /* Fondo azul oscuro */
+    border-radius: 8px;          /* Esquinas redondeadas */
+    padding: 15px 25px;          /* 15px arriba/abajo, 25px izquierda/derecha */
+    }
+
+
+
+
+
