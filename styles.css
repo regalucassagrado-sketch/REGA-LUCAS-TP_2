@@ -105,7 +105,7 @@ ul li a {
 }
 
 .texto-caja h3 {        
-    color: #0f0f0f;  
+    color: #fffafa;  
     font-family: Georgia, 'Times New Roman', Times, serif;  ;          
 }
 
@@ -119,17 +119,21 @@ ul li a {
 .texto-caja button {
     font-family: Georgia, 'Times New Roman', Times, serif;  
     margin-top: 25px;            
-    background: #e94560;         
+    background: #ffffff;         
     color: #fff;                 
     border: none;                
     padding: 5px 20px;          
     border-radius: 20px;          
     cursor: pointer;             
     font-weight: bold;           
-    text-decoration: none;  
+    
+    
 }
 
-
+.texto-caja button a{
+    text-decoration: none;  
+    color: black;
+}
 
 
 
