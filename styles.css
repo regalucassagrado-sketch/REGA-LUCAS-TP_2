@@ -164,3 +164,9 @@ ul li a {
 
 .cajas-contenedor2 {
     justify-content: center;     }
+
+
+footer{
+    color: #000000;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
